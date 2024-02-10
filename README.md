@@ -1,0 +1,1 @@
+установите pytelegrambotapi с помощью команды "pip install pytelegrambotapi", в файле BotMessenger.py измените "Your_Token" на токен вашего бота телеграмм, можете его доработать и вот! ваш бот готов, приятного использования!
